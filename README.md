@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">👋 Olá, meu nome é Susimara Roberti, Desenvolvedora Front End! </h1>
 
-<!--
-**susimararoberti/susimararoberti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- :octocat: Meu LinkedIn: https://www.linkedin.com/in/dev-susimararoberti/
+- :octocat: Meu Portfólio: https://portfolio-susimararoberti.vercel.app/<br><br>
+- :computer: Tecnologias e Skills que domino:<br>
+  - :open_file_folder: JavaScript;<br>
+  - :open_file_folder: CSS;<br>
+  - :open_file_folder: HTML;<br>
+  - :open_file_folder: React;<br>
+  - :open_file_folder: Styled-Components;<br>
+  - :open_file_folder: Redux e Context;<br>
+  - :open_file_folder: Express;<br>
+  - :open_file_folder: PostgreSQL;<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- :books:Estou estudando no momento:<br>
+  - :blue_book: NodeJs <br>
+
+
