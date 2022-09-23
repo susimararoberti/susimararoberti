@@ -11,11 +11,12 @@
   - :open_file_folder: React;<br>
   - :open_file_folder: Styled-Components;<br>
   - :open_file_folder: Redux e Context;<br>
+  - :open_file_folder: NodeJS;<br>
   - :open_file_folder: Express;<br>
   - :open_file_folder: PostgreSQL;<br><br>
 
 
 - :books:Estou estudando no momento:<br>
-  - :blue_book: NodeJs <br>
+  - :blue_book: Python <br>
 
 
